@@ -1,7 +1,5 @@
 # Ejemplo Documentación 
-![Arduino](https://upload.wikimedia.org/wikipedia/commons/e/e0/ArduinoLogo_%C2%AE.svg)
-
-<img src="(https://upload.wikimedia.org/wikipedia/commons/e/e0/ArduinoLogo_%C2%AE.svg" width="200" height="150">
+![Arduino](https://hardwarelivreusp.org/assets/images/tutoriais/arduino/arduino_oscomm.png)
 
 ## Integrantes 
 - Santiago Oliveira
