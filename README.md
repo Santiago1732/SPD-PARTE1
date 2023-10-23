@@ -3,3 +3,5 @@
 
 ## Integrantes 
 - Santiago Oliveira
+
+![Tinkercad](parte11.png)
